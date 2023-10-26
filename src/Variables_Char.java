@@ -9,5 +9,15 @@ public class Variables_Char {
     System.out.println("Codigo CAR: " + simbolo);
     System.out.println("Codigo ASCII: " + simboloDos);
     System.out.println("Codigo UNICODE: " + simboloTres);
+
+    // Secuencias de escape y caracteres especiales
+    char saltoLinea = '\n';
+    char retroceso = '\b';
+    char tabulador = '\t';
+    char principioLinea = '\r';
+    char newPage = '\f';
+    char comillas = '\"';
+    char comillaSimple = '\'';
+    char barraInversa = '\\';
   }
 }
