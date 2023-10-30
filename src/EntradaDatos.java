@@ -4,7 +4,7 @@ public class EntradaDatos {
     String numero = JOptionPane.showInputDialog(null, "Ingresa un numero entero: ");
     int numeroReal = Integer.parseInt(numero);
       System.out.println("Nuestro numero es: " + numeroReal);
-      String numeroBinario = Integer.toBinaryString(numeroReal);
+    String numeroBinario = Integer.toBinaryString(numeroReal);
       System.out.println("Numero en binario: " + numeroBinario);
       System.out.println("Numero en hexadecimal: " + Integer.toHexString(numeroReal));
       System.out.println("Numero en Octal: " + Integer.toOctalString(numeroReal));
