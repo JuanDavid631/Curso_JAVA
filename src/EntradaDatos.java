@@ -8,7 +8,7 @@ public class EntradaDatos {
       System.out.println("Numero en binario: " + numeroBinario);
       System.out.println("Numero en hexadecimal: " + Integer.toHexString(numeroReal));
       System.out.println("Numero en Octal: " + Integer.toOctalString(numeroReal));
-      String resultados = "Nuestro numero es: " + numeroReal + "\nNumero en binario: " + numeroBinario + "\nNumero en hexadecimal: " + Integer.toHexString(numeroReal) + "\nNumero en Octal: " + Integer.toOctalString(numeroReal);
+    String resultados = "Nuestro numero es: " + numeroReal + "\nNumero en binario: " + numeroBinario + "\nNumero en hexadecimal: " + Integer.toHexString(numeroReal) + "\nNumero en Octal: " + Integer.toOctalString(numeroReal);
       JOptionPane.showMessageDialog(null, resultados);
   }
 }
