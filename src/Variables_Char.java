@@ -6,9 +6,9 @@ public class Variables_Char {
       char simboloDos = 38;
     // CAR - Simbologia como el teclado lo muestra
       char simbolo = '&';
-        System.out.println("Codigo CAR: " + simbolo);
-        System.out.println("Codigo ASCII: " + simboloDos);
-        System.out.println("Codigo UNICODE: " + simboloTres);
+          System.out.println("Codigo CAR: " + simbolo);
+          System.out.println("Codigo ASCII: " + simboloDos);
+          System.out.println("Codigo UNICODE: " + simboloTres);
 
     // Secuencias de escape y caracteres especiales
     char saltoLinea = '\n';
