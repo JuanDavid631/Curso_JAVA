@@ -9,6 +9,6 @@ public class ConversionPrimitivas_Cadenas {
     float flotante = 2.56e2f;
     String flotanteConvertido = Float.toString(flotante);
     String mensaje = /*ciertoConvertido + "\n" + */decimalsConvertido + "\n" + enteroConvertido + "\n" + flotanteConvertido;
-      System.out.println(mensaje);
+        System.out.println(mensaje);
   }
 }
