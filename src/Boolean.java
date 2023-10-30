@@ -3,6 +3,6 @@ public class Boolean {
     boolean condicion = true;
     boolean condicionDos = false;
     boolean verificiar = 3 == 2 + 1;
-    System.out.println(verificiar + " " + condicionDos);
+      System.out.println(verificiar + " " + condicionDos);
   }
 }
