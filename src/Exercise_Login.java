@@ -8,12 +8,11 @@ public class Exercise_Login {
     String usuario = entrada.nextLine();
       System.out.println("Introduce tu contraseña: ");
     String contrasena = entrada.nextLine();
-
+    // Funcion inicial
     if (user.equals(usuario) && password.equals(contrasena)){
       System.out.println("Datos autenticados, BIENVENIDO");
     } else {
       System.out.println("Datos incorrectos, intente de nuevo");
     }
-
   }
 }
