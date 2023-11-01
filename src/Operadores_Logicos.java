@@ -6,7 +6,9 @@ public class Operadores_Logicos {
     boolean validarDos = (valor > numero || valor == numero);
     boolean validarTres = (valor < numero && valor == numero);
     boolean validarCuatro = (valor > numero && valor == numero);
+    boolean otro = (valor > numero && mentira == true);
       System.out.println("Validacion primera que se cumpla una condicion: " + validar + "\nValidacion segunda que se cumpla una condicion: " + validarDos
                           + "\nValidacion tercera que se cumplan ambas condiciones: " + validarTres + "\nValidacion cuarta que se cumplan ambas condiciones: " + validarCuatro);
+      System.out.println("Validaciones logicas o numericas: " + otro);
   }
 }
