@@ -30,5 +30,10 @@ public class Operadores_Ternarios {
       System.out.println("Algunos numeros o todos son iguales");
     }
 
+    // Optimizacion de codigo
+    double maximo = (numeroUno > numeroDos)? numeroUno:numeroDos;
+    maximo = (maximo > numeroTres)? maximo:numeroTres;
+      System.out.println("El maximo de los tres numeros es: " + maximo);
+
   }
 }
