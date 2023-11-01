@@ -9,9 +9,11 @@ public class Operadores_Relacionales {
     boolean relacionalSeis = (true != mentira);
     boolean validar = (valor < numero);
     boolean validarDos = (valor > numero);
-
+    boolean validarTres = (valor <= numero);
+    boolean validarCuatro = (valor >= numero);
       System.out.println("Logica inicial: " + relacional + "\nCambio de logica: " + relacionalDos + "\nDistinto a algo: " + relacionalTres
                           + "\nValidaciones: " + relacionalCinco + "\nValidaciones: " + relacionalSeis + "\nValidaciones Mayor y Menor que: " + validar
-                          + "\nValidaciones Mayor y Menor que: " + validarDos);
+                          + "\nValidaciones Mayor y Menor que: " + validarDos + "\nValidaciones Mayor o igual que: " + validarTres
+                          + "\nValidaciones Mayor o igual que: " + validarCuatro);
   }
 }
