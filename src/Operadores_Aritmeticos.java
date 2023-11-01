@@ -6,7 +6,7 @@ public class Operadores_Aritmeticos {
     int multiplicacion = uno * dos;
     float division = (float) uno / (float) dos;
     int resto = uno % dos;
-    System.out.println("La suma es: " + suma + "\nLa resta es: " + resta + "\nLa multiplicacion es: " + multiplicacion +
+      System.out.println("La suma es: " + suma + "\nLa resta es: " + resta + "\nLa multiplicacion es: " + multiplicacion +
                         "\nLa division es: " + division + "\nEl resto es: " + resto);
   }
 }
