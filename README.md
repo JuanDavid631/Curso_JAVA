@@ -15,4 +15,4 @@ Mi objetivo es crear un espacio donde los entusiastas de JAVA puedan aprender, c
 ¡Gracias por visitar! 👋
 
 ### Recursos 🔧
-Todo esto fue tomado del curso de Udemy (JAVA: Empieza desde cero con IntelliJ)
+Todo esto fue tomado del curso de Udemy (JAVA: Empieza desde cero con IntelliJ - https://www.udemy.com/share/1056l63@JuXVsSYZ3uH49lE1plZJUZHgC79cnx5HclpERUdcpxInSj1My7XVrJbELtmPJLeTqg==/)
